@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#828080</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="black_bold">#100F0F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorTransparentWhite"> #cccccc</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="royal_blue">#246EE9</color>
+    <color name="colorPrimary">#00CED1</color>
+    <color name="colorPrimaryVariant">#FF0F4FBA</color>
+    <color name="royal_blue_dark">#FF0F4FBA</color>
+
+    <color name="aqua">#00CED1</color>
+
+
+    // Login And Signup Colors
+
+    <color name="green">#21E43C</color>
+    <color name="grey">#828080</color>
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#246EE9</color>
+    <color name="gradient_end_color">#FF0F4FBA</color>
+
+
+    <!-- colors for tab and screen text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <!-- colors for bottom navigation bar -->
+    <color name="selectedIconColor">#246EE9</color>
+    <color name="defaultIconColor">#F6F6F6</color>
+    <color name="countTextColor">#fff</color>
+    <color name="countBackgroundColor">#F45E0B</color>
+    <color name="circleColor">#fff</color>
+    <color name="backgroundBottomColor">#246EE9</color>
+    <color name="shadow_color">#2E2E2E</color>
+    <color name="light_white">#FFFFF7</color>
+
+<!--    background gradient color-->
+    <color name="lightbg">#9278e6</color>
+    <color name="darkbg">#7158de</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="light_blue">#91b6f4</color>
+    <color name="blue">#7ba8f1</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="ultra_light_blue">#ECF1FB</color>
+
+    <color name="pink">#FFC0CB</color>
+
+
+</resources>
